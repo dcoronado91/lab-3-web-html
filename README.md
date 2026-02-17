@@ -1,7 +1,10 @@
 # El Forastero de Dust Creek
 Laboratorio 3 - Sistemas y Tecnologias Web - CC3062
+
 **Nombre:** Derek Friedhelm Coronado Chilin
+
 **Carnet:** 24732
+
 **Sección:** 10
 
 ---
@@ -27,11 +30,6 @@ La historia no es lineal y contiene loops que permiten regresar a escenas anteri
 - HTML5
 - Navegación con rutas relativas
 - Carga de imágenes con rutas absolutas
-
-⚠️ No se utilizó:
-- CSS
-- JavaScript
-- div
 
 ---
 
